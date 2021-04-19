@@ -1,5 +1,4 @@
 # [Arabic YouTube Channels Tech](https://gist.github.com/AhmedHelalAhmed/93d2e8b7cc23d57a9cd9c1045162543b)
-
 [SemiColon Academy](https://www.youtube.com/channel/UCuwTHYdMavwEPsZ6OAkXfig)  
 [Medhat Dawoud](https://www.youtube.com/channel/UCzve9ZBBT6_Nt_3j-qHyheQ)  
 [Shreef](https://www.youtube.com/channel/UCisfYJLiVP11BT-JY36sYAQ)  
@@ -35,4 +34,5 @@
 [Muhammed Essa](https://www.youtube.com/channel/UC7OGxluGpaD5NHMNoKj33pw)  
 [Hazem Hemied](https://www.youtube.com/channel/UC06FVVN-__PTi8XHTx13ekA)  
 [هفيدك Haafedk](https://www.youtube.com/channel/UCCRdEITKZuY5A_WJiUZji8g)  
-[Sekab](https://www.youtube.com/channel/UCrKr6aiLvFxj1csAUfekiuw)
+[Sekab](https://www.youtube.com/channel/UCrKr6aiLvFxj1csAUfekiuw)  
+[Ahmed Abd El Ftah](https://www.youtube.com/channel/UCrlyl0lWSxJu-RS7g7V3H8Q)  

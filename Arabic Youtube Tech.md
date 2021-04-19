@@ -34,3 +34,4 @@
 [Hazem Hemied](https://www.youtube.com/channel/UC06FVVN-__PTi8XHTx13ekA)  
 [هفيدك Haafedk](https://www.youtube.com/channel/UCCRdEITKZuY5A_WJiUZji8g)  
 [Sekab](https://www.youtube.com/channel/UCrKr6aiLvFxj1csAUfekiuw)  
+[Ahmed Abd El Ftah](https://www.youtube.com/channel/UCrlyl0lWSxJu-RS7g7V3H8Q)  
