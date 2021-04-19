@@ -37,6 +37,7 @@ channels = [
     'https://www.youtube.com/channel/UC7OGxluGpaD5NHMNoKj33pw',
     'https://www.youtube.com/channel/UC06FVVN-__PTi8XHTx13ekA',
     'https://www.youtube.com/channel/UCCRdEITKZuY5A_WJiUZji8g',
+    'https://www.youtube.com/channel/UCrKr6aiLvFxj1csAUfekiuw',
 ]
 file = open("Arabic Youtube Tech.md", "a")
 file.truncate(0)
