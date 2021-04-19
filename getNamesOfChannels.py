@@ -31,8 +31,6 @@ channels = [
     'https://www.youtube.com/channel/UCjf3LbqewN1eVP6ybCMGOCQ',
     'https://www.youtube.com/channel/UCOpR7Tg8CVUdgZCUbQlKY-g',
     'https://www.youtube.com/channel/UCmgpWswPRFzIEEcZncyQLYw',
-    'https://www.youtube.com/channel/UChjh0djRQtOfzS9fWGXTt9g',
-    'https://www.youtube.com/channel/UCZtMEPGln_sbgd9_ioDDC9g',
     'https://www.youtube.com/channel/UCLcFW31aAxyqsDxtALNnVTw',
     'https://www.youtube.com/channel/UC7OGxluGpaD5NHMNoKj33pw',
     'https://www.youtube.com/channel/UC06FVVN-__PTi8XHTx13ekA',
@@ -46,7 +44,7 @@ for channel in channels:
     allText = resp.text
     title = allText[allText.find('<title>') +
                     len('<title>'): allText.find('</title>')].encode('utf-8').strip()
-    file.write("["+title.replace('- YouTube', '')+"]("+channel+")  ")
+    file.write("["+title.replace(' - YouTube', '')+"]("+channel+")  ")
     file.write("\n")
 
 file.close()
